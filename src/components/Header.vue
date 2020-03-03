@@ -12,7 +12,7 @@ export default {
   
   data(){
     return{
-        msg: 'Grocery List'
+        msg: 'New Grocery List'
         }
   }
 }
